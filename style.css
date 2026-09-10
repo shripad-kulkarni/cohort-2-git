@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(57, 59, 61);
+    display: flex;
+    flex: content;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    color: rgb(235, 146, 146);
+}
+
+button{
+    background-color: rgb(221, 99, 99);
+}
